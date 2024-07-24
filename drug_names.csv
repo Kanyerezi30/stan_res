@@ -1,0 +1,26 @@
+Type,Code,Drug_Name
+PI,FPV,Fosamprenavir
+PI,IDV,Indinavir
+PI,ATV, Atazanavir
+PI,DRV,Darunavir
+PI,LPV,Lopinavir
+PI,NFV,Nelfinavir
+PI,SQV,Saquinavir
+PI,TPV,Tipranavir
+NRTI,FTC,Emtricitabine
+NRTI,ABC,Abacavir
+NRTI,DDI,Didanosine
+NRTI,TDF,Tenofovir
+NRTI,D4T,Stavudine
+NRTI,AZT,Zidovudine
+NNRTI,DOR,Doravirine
+NNRTI,EFV,Efavirenz
+NNRTI,ETR,Etravirine
+NNRTI,NVP,Nevirapine
+NNRTI,RPV,Rilpivirine
+INSTI,BIC,Bictegravir
+INSTI,DTG,Dolutegravir
+INSTI,EVG,Elvitegravir
+INSTI,RAL,Raltegravir
+INSTI,CAB,Cabotegravir
+NRTI,3TC,Lamivudine
